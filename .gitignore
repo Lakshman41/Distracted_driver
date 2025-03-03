@@ -29,3 +29,8 @@ migrations/
 # Ignore environment variables and secrets
 .env
 config.json
+
+uploads
+front-end
+cnn.keras
+__pycache__
