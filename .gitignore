@@ -1,7 +1,31 @@
+# Byte-compiled / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+
+# Dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Django/Python cache
+db.sqlite3
+migrations/
+
+# Ignore environment variables and secrets
 .env
-uploads
-front-end
-cnn.keras
-__pycache__
-.gitattributes
-config.toml
+config.json
