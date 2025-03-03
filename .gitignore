@@ -1,0 +1,7 @@
+.env
+uploads
+front-end
+cnn.keras
+__pycache__
+.gitattributes
+config.toml
