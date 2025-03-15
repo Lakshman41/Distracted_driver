@@ -34,3 +34,5 @@ uploads
 front-end
 cnn.keras
 __pycache__
+.gitignore
+.gitattributes
