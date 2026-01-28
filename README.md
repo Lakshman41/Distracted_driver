@@ -378,14 +378,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - TensorFlow and OpenCV communities
 - All contributors and supporters
 
-## 📧 Contact
-
-**Project Maintainer**: Your Name
-
-- Email: your.email@example.com
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
